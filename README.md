@@ -26,7 +26,7 @@ Built with **MongoDB, Express, React, and Node.js (MERN)**, the platform integra
 | Backend | Node.js, Express.js |
 | Database | MongoDB Atlas (Mongoose) |
 | Authentication | JSON Web Tokens (JWT), bcrypt |
-| Tools | IntelliJ IDEA, VS Code, Postman |
+| Tools | IntelliJ IDEA, VS Code |
 
 ---
 

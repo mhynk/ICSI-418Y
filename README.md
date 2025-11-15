@@ -10,7 +10,7 @@ Built with **MongoDB, Express, React, and Node.js (MERN)**, the platform integra
 ---
 
 ## Features  
-- **User Authentication (JWT)** — Secure signup/login with token-based authentication and password encryption.  
+- **User Authentication** — Secure signup/login.  
 - **Team Management** — Create teams, add members, and manage shared access via MongoDB schemas.  
 - **Project Management** — Backend endpoints for project creation, tracking, and updates.  
 - **RESTful APIs** — Modular route structure under `/api/users` and `/api/createProject` for maintainable expansion.  
